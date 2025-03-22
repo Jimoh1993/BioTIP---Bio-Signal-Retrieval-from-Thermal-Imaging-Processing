@@ -4,11 +4,11 @@ BioTIP-Thermal-Imaging/
 │── 📜 LICENSE            # License details (if applicable)  
 │── 📜 .gitignore         # Ignore unnecessary files  
 │── 📂 docs/              # Research papers, reports, and references  
-│── 📂 data/              # Sample anonymized datasets (if shareable)  
-│── 📂 models/            # Model architecture details (if shareable)  
+│── 📂 data/              # Sample anonymized datasets (TBU)  
+│── 📂 models/            # Model architecture details (TBU)  
 │── 📂 scripts/           # Image processing, ML, and CV scripts  
 │── 📂 results/           # Visual outputs, logs, and performance metrics  
-│── 📂 notebooks/         # Jupyter Notebooks for experiments (if shareable)  
+│── 📂 notebooks/         # Jupyter Notebooks for experiments (Upon Request)  
 │── 📂 assets/            # Screenshots, graphs, and visualization media  
 
 
