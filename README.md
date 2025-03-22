@@ -1,7 +1,7 @@
 BioTIP-Thermal-Imaging/
 
 │── 📜 README.md          # Project overview, objectives, and setup  
-│── 📜 LICENSE            # License details (if applicable)  
+│── 📜 LICENSE            # License details (TBU)  
 │── 📜 .gitignore         # Ignore unnecessary files  
 │── 📂 docs/              # Research papers, reports, and references  
 │── 📂 data/              # Sample anonymized datasets (TBU)  
